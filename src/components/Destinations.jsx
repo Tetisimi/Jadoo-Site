@@ -12,7 +12,7 @@ export default function Destinations() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-32 place-items-center">
           <div className="w-64 bg-white rounded-lg shadow-lg p-8 flex flex-col text-center transform transition duration-300 hover:scale-110">
             <img
-              src="/assets/Rectangle 14.png"
+              src="assets/Rectangle 14.png"
               alt=""
               className="object-contain"
             />
@@ -24,7 +24,7 @@ export default function Destinations() {
             </div>
             <p className="flex justify-center mt-2">
               <img
-                src="/assets/Navigation 1.png"
+                src="assets/Navigation 1.png"
                 alt="navicon"
                 className="mr-2"
               />
@@ -34,7 +34,7 @@ export default function Destinations() {
 
           <div className="w-64 bg-white rounded-lg shadow-md p-8 flex flex-col text-center transform transition duration-300 hover:scale-110">
             <img
-              src="/assets/Rectangle 14.jpg"
+              src="assets/Rectangle 14.jpg"
               alt=""
               className="object-contain"
             />
@@ -46,7 +46,7 @@ export default function Destinations() {
             </div>
             <p className="flex justify-center mt-2">
               <img
-                src="/assets/Navigation 1.png"
+                src="assets/Navigation 1.png"
                 alt="navicon"
                 className="mr-2"
               />
@@ -56,7 +56,7 @@ export default function Destinations() {
 
           <div className="w-64 bg-white rounded-lg shadow-lg p-8 flex flex-col text-center transform transition duration-300 hover:scale-110">
             <img
-              src="/assets/Rectangle 14 (1).png"
+              src="assets/Rectangle 14 (1).png"
               alt=""
               className="object-contain"
             />
@@ -68,7 +68,7 @@ export default function Destinations() {
             </div>
             <p className="flex justify-center mt-2">
               <img
-                src="/assets/Navigation 1.png"
+                src="assets/Navigation 1.png"
                 alt="navicon"
                 className="mr-2"
               />
@@ -78,7 +78,7 @@ export default function Destinations() {
         </div>
 
         <div className="absolute right-6 top-48  md:-right-8 md:top-48 -z-10 lg:block">
-          <img src="/assets/Decore (2).png" alt="decore" />
+          <img src="assets/Decore (2).png" alt="decore" />
         </div>
       </div>
     </Container>

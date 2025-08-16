@@ -16,7 +16,7 @@ export default function EaF() {
             <div className="space-y-8">
               <div className="flex items-start">
                 <img
-                  src="/assets/Group 7.png"
+                  src="assets/Group 7.png"
                   alt=""
                   className="mr-4 w-12 h-12"
                 />
@@ -30,7 +30,7 @@ export default function EaF() {
 
               <div className="flex items-start">
                 <img
-                  src="/assets/Group 11.png"
+                  src="assets/Group 11.png"
                   alt=""
                   className="mr-4 w-12 h-12"
                 />
@@ -44,7 +44,7 @@ export default function EaF() {
 
               <div className="flex items-start">
                 <img
-                  src="/assets/Group 12.png"
+                  src="assets/Group 12.png"
                   alt=""
                   className="mr-4 w-12 h-12"
                 />
@@ -62,7 +62,7 @@ export default function EaF() {
 
           <div>
             <img
-              src="/assets/Image (1).png"
+              src="assets/Image (1).png"
               alt="Trip Illustration"
               className="w-full h-auto object-contain"
             />
