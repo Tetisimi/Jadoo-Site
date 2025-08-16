@@ -61,25 +61,37 @@ export default function Footer() {
           <div className="flex flex-col space-y-6">
             <div className="flex space-x-4">
               <a href="#">
-                <img src="/assets/FB.png" alt="Facebook" className="" />
+                <img
+                  src="/Jadoo-Site/assets/FB.png"
+                  alt="Facebook"
+                  className=""
+                />
               </a>
               <a href="#">
-                <img src="/assets/IG.png" alt="Twitter" className="" />
+                <img
+                  src="/Jadoo-Site/assets/IG.png"
+                  alt="Twitter"
+                  className=""
+                />
               </a>
               <a href="#">
-                <img src="/assets/X.png" alt="Instagram" className="" />
+                <img
+                  src="/Jadoo-Site/assets/X.png"
+                  alt="Instagram"
+                  className=""
+                />
               </a>
             </div>
             <div>
               <h2 className="font-semibold mb-3">Discover our app</h2>
               <div className="flex space-x-3">
                 <img
-                  src="/assets/Google-Play.png"
+                  src="/Jadoo-Site/assets/Google-Play.png"
                   alt="Google Play"
                   className=""
                 />
                 <img
-                  src="/assets/Play-Store.png"
+                  src="/Jadoo-Site/assets/Play-Store.png"
                   alt="App Store"
                   className=""
                 />

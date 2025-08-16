@@ -9,7 +9,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4">
         <Link to="/">
           <img
-            src="/assets/Logo.png"
+            src="/Jadoo-Site/assets/Logo.png"
             alt="logo"
             className="w-[115px] md:w-[140px]"
           />
