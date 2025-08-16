@@ -17,7 +17,11 @@ export default function Hero() {
                   Travel,{' '}
                   <span className="flex flex-col">
                     enjoy
-                    <img src="assets/Decore.png" alt="decore" className="" />
+                    <img
+                      src="\publicassets/Decore.png"
+                      alt="decore"
+                      className=""
+                    />
                   </span>
                 </span>{' '}
                 and live a new <br /> and full life
@@ -44,7 +48,7 @@ export default function Hero() {
 
             <div className="flex justify-center">
               <img
-                src="assets\Image.png"
+                src="/public/assets/Image.png"
                 alt="Traveler"
                 className="w-full max-w-md"
               />

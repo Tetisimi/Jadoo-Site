@@ -13,9 +13,13 @@ export default function Home() {
   return (
     <>
       <div className="relative">
-        <img src="assets/Ellipse 8.png" alt="" className="absolute sm:hidden" />
         <img
-          src="assets/Decore (1).png"
+          src="/public/assets/Ellipse 8.png"
+          alt=""
+          className="absolute sm:hidden"
+        />
+        <img
+          src="/public/assets/Decore (1).png"
           alt=""
           className="w-full h-screen object-cover absolute top-0 -right-1 hidden sm:block -z-10"
         />
