@@ -48,7 +48,7 @@ export default function Hero() {
 
             <div className="flex justify-center">
               <img
-                src="/public/assets/Image.png"
+                src=" /assets/Image.png"
                 alt="Traveler"
                 className="w-full max-w-md"
               />
