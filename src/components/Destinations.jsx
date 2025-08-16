@@ -24,7 +24,7 @@ export default function Destinations() {
             </div>
             <p className="flex justify-center mt-2">
               <img
-                src="/Jadoo-Site/assets/Navigation-1.png"
+                src="/Jadoo-Site/assets/navigation-1.png"
                 alt="navicon"
                 className="mr-2"
               />
@@ -46,7 +46,7 @@ export default function Destinations() {
             </div>
             <p className="flex justify-center mt-2">
               <img
-                src="/Jadoo-Site/assets/Navigation-1.png"
+                src="/Jadoo-Site/assets/navigation-1.png"
                 alt="navicon"
                 className="mr-2"
               />
@@ -56,7 +56,7 @@ export default function Destinations() {
 
           <div className="w-64 bg-white rounded-lg shadow-lg p-8 flex flex-col text-center transform transition duration-300 hover:scale-110">
             <img
-              src="/Jadoo-Site/assets/Rectangle 14-(1).png"
+              src="/Jadoo-Site/assets/Rectangle-14-(1).png"
               alt=""
               className="object-contain"
             />
@@ -68,7 +68,7 @@ export default function Destinations() {
             </div>
             <p className="flex justify-center mt-2">
               <img
-                src="/Jadoo-Site/assets/Navigation-1.png"
+                src="/Jadoo-Site/assets/navigation-1.png"
                 alt="navicon"
                 className="mr-2"
               />
