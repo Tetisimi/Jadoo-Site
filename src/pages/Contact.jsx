@@ -57,7 +57,7 @@ export default function Contact() {
 
         <div className="relative order-1 md:order-2">
           <img
-            src=" /assets/contact/Mask Group.png"
+            src="assets/contact/Mask-Group.png"
             alt="Contact Us"
             className="w-full h-auto object-contain"
           />

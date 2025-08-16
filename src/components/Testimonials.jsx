@@ -3,8 +3,8 @@ import { useState, useEffect } from 'react';
 
 export default function Testimonials() {
   const testimonials = [
-    { src: ' /assets/test 1.png', alt: 'Testimonial 1' },
-    { src: ' /assets/test 2.png', alt: 'Testimonial 2' },
+    { src: 'assets/test-1.png', alt: 'Testimonial 1' },
+    { src: 'assets/test-2.png', alt: 'Testimonial 2' },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
