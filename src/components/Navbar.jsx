@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
-import logo from '/src/assets/Logo.png';
+import logo from '/assets/Logo.png';
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -62,7 +62,7 @@ function Navbar() {
           <a href="/" className="block">
             Sign up
           </a>
-          <li className='list-none'>
+          <li className="list-none">
             <Link to="/contact">Contact Us</Link>
           </li>
         </div>
