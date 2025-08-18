@@ -98,7 +98,7 @@ function Navbar() {
 
   return (
     <nav
-      className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 py-6 ${
+      className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 py-16 ${
         scrolled ? 'bg-white/60 backdrop-blur-md shadow-md' : 'bg-transparent'
       }`}
     >
