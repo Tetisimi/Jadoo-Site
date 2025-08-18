@@ -5,7 +5,7 @@ function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 bg-white/50 mt-6">
+    <nav className="fixed top-0 left-0 w-full z-50 bg-white/50 mt-6 h-16">
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4">
         <Link to="/">
           <img
